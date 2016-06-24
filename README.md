@@ -1,4 +1,4 @@
-# CSGO Trade Up Contract Calculator Issues
+# CSGO Trade-Up Contract Calculator Issues
 This is a public issue-tracking repository for bugs and confirmed features related to CSGO CC.
 
 To download CSGO CC, please visit the [ACW Technologies website](http://acwtechnologies.co.uk/software/csgo-trade-up-contract-calculator) directly.
